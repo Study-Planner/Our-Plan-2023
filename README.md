@@ -1,8 +1,5 @@
 # Our-Plan-2023
-Plan for the final year at university. </br></br>
-I think I will use this repository for my own... but if you are interested, please enjoy the journey of my boring life.
-</br>
-If you are lucky, you might get some useful information!
+
 
 # Rules
 1. 제목은 항상 날짜로 작성하고 YYYY.MM.DD 형식으로 작성한다.
